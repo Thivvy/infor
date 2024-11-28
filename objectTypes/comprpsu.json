@@ -1,0 +1,51 @@
+{
+	"name": "comprpsu",
+	"plugin-id": "Sprite",
+	"sid": 775837210946762,
+	"isGlobal": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 250,
+						"height": 250,
+						"originX": 0.504,
+						"originY": 0.456,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 6714171,
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Placabasepsu",
+								"x": 0.496,
+								"y": 0.436
+							},
+							{
+								"name": "Punto imagen 2",
+								"x": 0.5,
+								"y": 0.5
+							}
+						],
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 940150221329210,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
